@@ -28,3 +28,5 @@ print(check_num)
 print(check_alpha)
 print(f"There is {check_zeros} 0 in helpline number!")
 print(f"This is an updated helpline {updated_helpline}")
+
+print(help(str))
